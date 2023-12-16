@@ -1,4 +1,4 @@
-<?php
+6741363952:AAGON3-aUDsn4rdRVmOfdKREs2cZm0tvL-o
 /*
 سورس اصلی ربات پی وی رسان
 @PvResanBot
